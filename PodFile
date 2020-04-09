@@ -1,0 +1,6 @@
+
+target 'WeatherAssignment' do
+  pod 'SwiftHTTP'
+  pod 'SwiftyJSON'
+
+end
